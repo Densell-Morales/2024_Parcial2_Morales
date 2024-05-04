@@ -1,0 +1,3 @@
+C:/universidad/progra/2024_Parcial2_Morales/cmake-build-debug/CMakeFiles/2024_Parcial2_Morales.dir
+C:/universidad/progra/2024_Parcial2_Morales/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/universidad/progra/2024_Parcial2_Morales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
