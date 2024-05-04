@@ -27,6 +27,9 @@ void crearNcantArchivos(int cantidad){
             ofstream file;
             file.open("C:/Users/gallo/Desktop/par/" + nombreArchivo + to_string(i + 1) + ".txt");
             cout << "Agregando texto No." << i+1 << endl;
+            for (int j = 0; j < i+1; ++j) {
+                file << "linea de texto" << endl;
+            }
             file.close();
         }
     }else{
@@ -35,6 +38,9 @@ void crearNcantArchivos(int cantidad){
             ofstream file;
             file.open("C:/Users/gallo/Desktop/impar/" + nombreArchivo + to_string(i + 1) + ".txt");
             cout << "Agregando texto No." << i+1 << endl;
+               for (int j = 0; j < i+1; ++j) {
+                file << "linea de texto" << endl;
+            }
             file.close();
         }
 
